@@ -11,4 +11,6 @@ requirment:
   scikit-learn >= 0.22.2  
   numpy >= 1.16.4  
 
+It is recommended to use a GPU to acquire the better performance
+
 Please cite my paper: undo
