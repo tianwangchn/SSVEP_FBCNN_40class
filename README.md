@@ -13,4 +13,5 @@ requirment:
 
 It is recommended to use a GPU to acquire the better performance
 
-Please cite my paper: undo
+Please cite my paper: 
+D. Zhao, T. Wang, Y. Tian and X. Jiang, "Filter Bank Convolutional Neural Network for SSVEP Classification," in IEEE Access, doi: 10.1109/ACCESS.2021.3124238.
